@@ -3,8 +3,6 @@ h1 a, h2 a {
 	font-family: 'Coiny', 'cursive';
 }
 
-
-
 .page-header {
     background-color: #63B9D6;
     margin-top: 0;
@@ -52,3 +50,4 @@ h1, h2, h3, h4 {
 .post h2 a, .post h2 a:visited {
     color: #82E0A9;
 }
+
